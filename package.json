@@ -1,8 +1,6 @@
 {
   "name": "modmailbot",
   "version": "2.29.1",
-  "express-glitch-keepalive": "^0.2.0",
-  "express": "^4.16.4",
   "description": "",
   "license": "MIT",
   "main": "src/index.js",
